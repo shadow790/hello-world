@@ -1,2 +1,5 @@
 # hello-world
-new programmers
+
+Hi game
+
+game i will play with you
